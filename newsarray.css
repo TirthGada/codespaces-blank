@@ -1,0 +1,244 @@
+* {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+.topdisplay{
+background-color:whitesmoke;
+color: black;
+padding: 5vh 2vw;
+height: 1vh;
+justify-content: center;
+display: flex;
+border-bottom: 1px solid grey;
+align-items: center;
+}
+
+.topheader{
+display: flex;
+justify-content: center;
+}
+
+.top1{
+margin: 0px 150px;
+padding: 0px 0px;
+}
+
+.premium {
+color: goldenrod;
+border: 2px solid goldenrod;
+
+align-items: center;
+font-style: oblique;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.weblogo{
+    color:red;
+    font-size: xx-large;
+    font-weight: 900;
+    font-family:cursive;
+
+}
+
+  .header{
+    background-color: blanchedalmond;
+    color:black;
+    padding: 2vh 1.5vw;
+    align-self: center;
+    justify-content: center;
+align-items: center;
+  }
+  
+  .header-nav{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+  }
+
+  .topic{
+  margin:auto;
+    padding: 0px 0px;
+    border: 2px solid black;
+    border-radius: 10px;
+   text-decoration: none;
+  }
+
+  .newsa{
+    display: flex;
+    flex-direction: row;
+    flex: 2;
+    background-color: whitesmoke;
+    color: black;
+    border: 1px solid grey;
+    height: 400px;
+    justify-content:flex-start;
+    align-items: center;
+  
+    }
+
+.news1 {
+  border: 2px solid grey;
+  align-self: center;
+margin: auto;
+  justify-content: center;
+
+}
+
+.news2 {
+  border: 2px solid grey;
+  align-self: center;
+ margin: auto;
+}
+
+.news3 {
+  border: 2px solid grey;
+  align-self: center;
+margin: auto;
+}
+.stock1{
+  color: green;
+}
+
+
+.newsb{
+  display: flex;
+  flex-direction: row;
+  flex: 2;
+  background-color: whitesmoke;
+  color: black;
+  border: 1px solid grey;
+  height: 400px;
+  justify-content:flex-start;
+  align-items: center;
+
+  }
+
+.news4{
+border: 2px solid grey;
+align-self: center;
+
+justify-content: center;
+margin: auto;
+}
+
+.news5{
+border: 2px solid grey;
+align-self: center;
+margin: auto;
+}
+
+.news6{
+border: 2px solid grey;
+align-self: center;
+margin:auto;
+}
+
+.stock2{
+  color: red;
+}
+
+.newsc{
+  display: flex;
+  flex-direction: row;
+  flex: 2;
+  background-color: whitesmoke;
+  color: black;
+  border: 1px solid grey;
+  height: 400px;
+  justify-content:flex-start;
+  align-items: center;
+
+  }
+
+.news7{
+  border: 2px solid grey;
+  align-self: center;
+  
+  justify-content: center;
+  margin: auto;
+  }
+  
+  .news8{
+  border: 2px solid grey;
+  align-self: center;
+  margin: auto;
+  }
+  
+  .news9{
+  border: 2px solid grey;
+  align-self: center;
+  margin:auto;
+  }
+
+.para{
+  text-decoration: none;
+}
+
+.date{
+  font-size: medium;
+  font-style: oblique;
+}
+
+.footer{  background-color: blanchedalmond;
+  color:black;
+  padding: 5vh 2vw;
+  height: 1vh;
+  margin-bottom: 0.5vhs;
+  justify-content: center;
+align-items: center;
+margin-top: 2vh;
+display: flex;}
+  
+.footer-nav{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.topicfoot{
+margin: 2px 46px;
+padding: 0px 0px;
+}
+
+.logo{
+  color: red;
+font-family: cursive;
+}
+
+form {
+  border: 6px solid #f1f1f1;
+  font-family: Arial;
+}
+
+.container {
+  padding: 15px;
+  background-color: #f1f1f1;
+
+}
+
+input[type=text], input[type=submit] {
+  width: 20%;
+  padding: 12px;
+  margin: 3px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+input[type=checkbox] {
+  margin-top: 6px;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  border: none;
+}
+
+input[type=submit]:hover {
+  opacity: 0.8;
+}
